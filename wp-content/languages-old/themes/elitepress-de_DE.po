@@ -1,0 +1,641 @@
+# Translation of Themes - ElitePress in German
+# This file is distributed under the same license as the Themes - ElitePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-11 18:49:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Themes - ElitePress\n"
+
+#. Description of the theme
+msgid "ElitePress is a Business WordPress Theme that contains many features for customizing your website as you need. Already, thousands of users are enjoying this theme because it is designed for multiple businesses like corporates, law firms, digital media agencies, architecture firms, personal blogs, portfolios and freelancer websites. The theme is developed using Bootstrap 3 CSS framework which makes it friendly for all devices such as mobiles, tablets, and laptops, etc. In ElitePress Lite, you can easily set Social Icons in the header, Contact Information, Services, Portfolio, and a 3-column widgetized footer. Several page templates are also added: Homepage and a Full Width page template. In the premium version, you will get a boxed layout, 7 predefined color schemes, a feature for creating your own custom color scheme, an eye-catching slider, and Services, Testimonials, Portfolio, Clients / Sponsors, Blog Layouts, Layout Manager and Latest News. You will also get various page templates including About, Services, Portfolio, Blog and Contact Us. The theme has support for popular plugins such as WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Both the lite and premium versions of ElitePress theme come with various locales. Check the premium version theme demo at https://webriti.com/demo/wp/elitepress"
+msgstr "ElitePress ist ein Business WordPress Theme, das viele Funktionen zur Anpassung deiner Website nach deinen Wünschen beinhaltet. Jetzt schon erfreuen sich Tausende Benutzer an diesem Theme, weil es für verschiedene Unternehmen entwickelt wurde, wie Unternehmen in den Bereichen Recht, Digitale Medien, Architektur, Persönliche Blogs, Portfolios und Freelancer Websites. Das Theme wurde unter Verwendung des Bootstrap 3 CSS Frameworks entwickelt, welches es für alle Geräte geeignet macht, wie Mobiltelefone, Tablets und Laptops etc. In ElitePress Lite kannst du schnell Soziale Icons in den Header integrieren, Kontaktinformationen, Dienstleistungen, Portfolio und einen Footer mit 3 Spalten für Widgets. Verschiedene Seitenvorlagen sind enthalten: Startseite und eine Vorlage für Volle Breite. In der Premium Version hast du ein Boxen-Layout, 7 vordefinierte Farbschemata, die Möglichkeit, dein eigenes Farbschema zu erstellen, einen augenfälligen Slider und Dienstleistungen, Referenzen, Portfolio, Kunden / Sponsoren, Blog-Layouts, Layout Manager und die neuesten Nachrichten. Du erhältst außerdem verschiedene Seitenvorlagen für „Über Uns“, Dienstleistungen, Portfolio, Blog und Kontaktseite. Das Theme unterstützt beliebte Plugins wie WPML, Polylang und JetPack Gallery Extensions. Gehe einfach zu Design / Customizer, um dein Theme anzupassen. Sowohl die Lite als auch die Premium Version von ElitePress bringen verschiedene Sprachpakete mit. Schau dir die Demo der Premium Version an auf https://webriti.com/demo/wp/elitepress"
+
+#. Theme Name of the theme
+msgid "ElitePress"
+msgstr "ElitePress"
+
+#: functions/meta-box/post-meta.php:21
+msgid "Allow banners on the page"
+msgstr "Banner auf der Seite erlauben"
+
+#: functions/meta-box/post-meta.php:22
+msgid "Enter the banner's heading title"
+msgstr "Gib den Titel für die Überschrift des Banners ein"
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "The premium version, ElitePress PRO, includes various page templates"
+msgstr "Die Premium-Version, ElitePress PRO, enthält verschiedene Seitenvorlagen"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Show the members of your team, your clients, or any custom content."
+msgstr "Präsentiere deine Mitarbeiter, deine Kunden oder jedwede andere individuellen Inhalte."
+
+#: admin/inc/class-webriti-about-page.php:126
+msgid "About ElitePress"
+msgstr "Über ElitePress"
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid "Multi Level Navigation"
+msgstr "Mehrstufige Navigation"
+
+#: admin/tab-pages/useful_plugins.php:36
+msgid "Caption Slider"
+msgstr "Slider-Beschriftung"
+
+#: admin/tab-pages/useful_plugins.php:44
+msgid "Service Features"
+msgstr "Dienstleistungs-Funktionen"
+
+#: admin/tab-pages/useful_plugins.php:46
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Du kannst jede Anzahl von Dienstleistungen auf der Homepage anzeigen, mit Tausenden von verfügbaren FontAwesome Icons. Du kannst auch ein Set von Dienstleistungen auf einer separaten Seite anzeigen, indem du die dienstleistungsabhängigen Seitenvorlagen benutzt."
+
+#: admin/tab-pages/useful_plugins.php:52
+msgid "Portfolio Features"
+msgstr "Portfolio-Funktionen"
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Stelle jede Anzahl von Projekten aus. Dieses Theme bietet dir die Option, 2-, 3-, 4-Spalten-Raster-Layouts zu erstellen, indem du die jeweiligen Vorlagen für 2-, 3-, 4-Spalten benutzt. Falls du eine Anzahl Projekte präsentieren willst, sind diese Vorlagen die Antwort. Du kannst auch kategorisierte Portfolios erstellen, welche all die Portfolio-Kategorien an einem einzigen Ort anzeigen. Tatsächlich haben wir dieses Theme so programmiert, dass du jede Anzahl verschiedener Portfolios erstellen kannst."
+
+#: admin/tab-pages/useful_plugins.php:60
+msgid "Latest News Section"
+msgstr "Neueste Nachrichten Bereich"
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Dieser Bereich wird häufig zur Anzeige der neuesten Nachrichten, Bekanntmachungen und für Veranstaltungshinweise genutzt."
+
+#: admin/tab-pages/useful_plugins.php:67
+msgid "Testimonial Feature"
+msgstr "Referenzen-Funktion"
+
+#: admin/tab-pages/useful_plugins.php:68
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Referenzen sind ein großartiger Weg, Vertrauen aufzubauen. Du kannst Referenzen mit einem Karussell-Effekt anzeigen."
+
+#: admin/tab-pages/useful_plugins.php:82
+msgid "Well Documented"
+msgstr "Ausführlich dokumentiert"
+
+#: admin/tab-pages/useful_plugins.php:90
+msgid "Custom widget"
+msgstr "Individuelles Widget"
+
+#: admin/tab-pages/useful_plugins.php:91
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Eine Website mit unseren individuellen Widgets zu erstellen, ist sehr einfach. Platziere sie einfach in der verfügbaren Seitenleiste oder sogar im Inhaltsbereich."
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Das Theme unterstützt jetzt ein weiteres renommiertes Plugin: WPML. Mithilfe dieser Unterstützung kannst du eine Website in mehreren Sprachen zur Verfügung stellen."
+
+#: admin/inc/class-webriti-about-page.php:116
+msgid "View Theme Info"
+msgstr "Theme-Information anzeigen"
+
+#: admin/inc/class-webriti-about-page.php:315
+msgid "Getting Started"
+msgstr "Jetzt loslegen"
+
+#: admin/tab-pages/free_vs_pro.php:16
+msgid "Frontpage Sections"
+msgstr "Startseiten-Abschnitte"
+
+#: admin/tab-pages/free_vs_pro.php:17
+msgid "You will find a number of sections on the front page."
+msgstr "Du wirst einige Bereiche auf der Startseite vorfinden."
+
+#: admin/tab-pages/free_vs_pro.php:20
+msgid "Page Templates Support"
+msgstr "Unterstützung von Seitenvorlagen"
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Mobile Friendly"
+msgstr "Für Mobilgeräte geeignet"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Responsive layout in all devices"
+msgstr "Responsives Layout auf allen Geräten"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Contact Form Support"
+msgstr "Unterstützung für Kontaktformular"
+
+#: admin/tab-pages/free_vs_pro.php:31 admin/tab-pages/useful_plugins.php:14
+msgid "SEO Friendly URL"
+msgstr "SEO-freundliche URLs"
+
+#: admin/tab-pages/free_vs_pro.php:32
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Diese Funktion erlaubt dir das Umbenennen der Titelform Individueller Inhaltstypen in der URL."
+
+#: admin/tab-pages/free_vs_pro.php:39
+#: functions/customizer/customizer-pro-feature.php:50
+msgid "Google Map"
+msgstr "Google Map"
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Deine Laden- oder Geschäftsadresse mit Google Maps auf deiner Website präsentieren."
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "Present your project/portfolio collection with a 2 column, 3 column or 4 column layout. You can also display your project/portfolio by category."
+msgstr "Präsentiere all deine Projekte/Portfolios in 2 Spalten-, 3 Spalten- und 4-Spalten-Layouts. Du kannst dein Projekt/Portfolio auch nach Kategorien getrennt anzeigen."
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "About Us Page"
+msgstr "Über Uns Seite"
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Services Page"
+msgstr "Dienstleistungen-Seite"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Show all your services in a single place."
+msgstr "Präsentiere all deine Dienstleistungen an einem zentralen Ort."
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "Testimonial / Review Section"
+msgstr "Referenzen / Bewertungen Bereich"
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Benutzer-Rückmeldungen auf der Startseite und Dienstleistungs-Seite anzeigen."
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "WPML / Polylang Support"
+msgstr "Unterstützung für WPML / Polylang"
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "Mithilfe von WPML kannst du eine mehrsprachige Website erstellen."
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Erhalte 24/7 Hilfe in unserem Support Forum."
+
+#: admin/tab-pages/free_vs_pro.php:76
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Vorlagen für Startseite und Seiten in voller Breite"
+
+#: admin/tab-pages/free_vs_pro.php:87
+msgid "WordPress Support Forum"
+msgstr "WordPress Support Forum"
+
+#: admin/tab-pages/free_vs_pro.php:99
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Über Uns, Dienstleistungen, Portfolio, Blog-Seitenleisten links & rechts, Blog in voller Breite, Seite in voller Breite, Kontaktseite und vieles mehr."
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "Webriti Support Forum"
+msgstr "Webriti Support Forum"
+
+#: admin/tab-pages/getting-started.php:49
+msgid "Useful Links"
+msgstr "Nützliche Links"
+
+#: admin/tab-pages/getting-started.php:55
+msgid "Lite Demo"
+msgstr "Lite Demo"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Premium Theme Details"
+msgstr "Premium Theme Details"
+
+#: admin/tab-pages/getting-started.php:65
+msgid "Your feedback is valuable to us"
+msgstr "Dein Feedback ist uns wichtig"
+
+#: admin/tab-pages/useful_plugins.php:10
+msgid "Why Upgrade to Pro?"
+msgstr "Warum auf Pro upgraden?"
+
+#: admin/tab-pages/useful_plugins.php:15
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Diese Funktion hilft dir, die Titelform der URL umzubenennen und sie so SEO-freundlich zu machen."
+
+#: 404.php:12
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: comments.php:85
+msgid "Log out from this Account"
+msgstr "Von diesem Konto abmelden"
+
+#: functions/widget/elitepress_social_icon.php:198
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: comments.php:20
+msgid "Posted on"
+msgstr "Veröffentlicht am"
+
+#: functions/customizer/customizer_header.php:19
+msgid "Select column layout"
+msgstr "Spaltenlayout auswählen"
+
+#: functions/customizer/customizer_header.php:33
+msgid "Click here to add a header widget"
+msgstr "Header Widget hinzuzufügen"
+
+#: functions/customizer/customizer_theme_style.php:10
+msgid "Theme Color"
+msgstr "Theme-Farbe"
+
+#: functions/customizer/customizer_theme_style.php:42
+msgid "wide"
+msgstr "Maximale Breite"
+
+#: functions/customizer/customizer_theme_style.php:53
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: functions/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: functions/widget/custom-sidebar.php:18
+#: functions/widget/custom-sidebar.php:20
+msgid "Top header left area"
+msgstr "Bereich über Header links"
+
+#: functions/widget/custom-sidebar.php:29
+#: functions/widget/custom-sidebar.php:31
+msgid "Top header right area"
+msgstr "Bereich über Header rechts"
+
+#: functions/widget/custom-sidebar.php:40
+#: functions/widget/custom-sidebar.php:42
+msgid "Top header widget area"
+msgstr "Widget-Bereich über Header"
+
+#: functions/widget/elitepress_header_widget.php:13
+msgid "WBR: Header widget"
+msgstr "WBR: Header Widget"
+
+#: functions/widget/elitepress_header_widget.php:16
+msgid "ElitePress header widget"
+msgstr "ElitePress header Widget"
+
+#: functions/widget/elitepress_header_widget.php:83
+msgid "Get your Font Awesome"
+msgstr "Erhalte Font Awesome"
+
+#: functions/widget/elitepress_header_widget.php:83
+msgid "here"
+msgstr "hier"
+
+#: functions/widget/elitepress_social_icon.php:13
+msgid "WBR: Social icon"
+msgstr "WBR: Soziales Icon"
+
+#: functions/widget/elitepress_social_icon.php:16
+msgid "ElitePress social icons widget"
+msgstr "ElitePress Widget für Soziale Icons"
+
+#: functions/customizer/customizer_banner.php:15
+msgid "Category"
+msgstr "Kategorie"
+
+#: functions/customizer/customizer_banner.php:61
+msgid "Archive"
+msgstr "Archiv"
+
+#: functions/customizer/customizer_banner.php:107
+msgid "Author"
+msgstr "Autor"
+
+#: functions/customizer/customizer_banner.php:199
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: functions/widget/elitepress_header_widget.php:81
+msgid "Icon"
+msgstr "Icon"
+
+#: archive.php:30
+msgid "Blog Archive"
+msgstr "Blog-Archiv"
+
+#: comments.php:73
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:85
+msgid "Log out"
+msgstr "Abmelden"
+
+#: content-single.php:21 content.php:21 fullwidth.php:14 page.php:14
+msgid "Page"
+msgstr "Seite"
+
+#: functions/customizer/customizer-blog.php:62
+#: functions/customizer/customizer_banner.php:52
+#: functions/customizer/customizer_banner.php:98
+#: functions/customizer/customizer_banner.php:144
+#: functions/customizer/customizer_banner.php:190
+#: functions/customizer/customizer_banner.php:236
+#: functions/customizer/customizer_banner.php:284
+#: functions/meta-box/post-meta.php:24
+#: functions/widget/elitepress_header_widget.php:91
+msgid "Description"
+msgstr "Beschreibung"
+
+#: functions/widget/elitepress_social_icon.php:183
+#: functions/widget/elitepress_social_icon.php:189
+#: functions/widget/elitepress_social_icon.php:195
+#: functions/widget/elitepress_social_icon.php:201
+#: functions/widget/elitepress_social_icon.php:207
+#: functions/widget/elitepress_social_icon.php:213
+#: functions/widget/elitepress_social_icon.php:219
+#: functions/widget/elitepress_social_icon.php:225
+msgid "Open link in new tab"
+msgstr "Link in neuem Tab öffnen"
+
+#: archive.php:17
+msgid "Daily Archive"
+msgstr "Tagesarchiv"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Startseite"
+
+#: functions/customizer/customizer-pro-feature.php:57
+msgid "UPGRADE TO PRO"
+msgstr "UPGRADE AUF PRO"
+
+#: functions/widget/elitepress_social_icon.php:186
+msgid "Twitter URL"
+msgstr "Twitter URL "
+
+#: functions/widget/elitepress_social_icon.php:210
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/widget/elitepress_social_icon.php:216
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/customizer/customizer-home.php:190
+msgid "Enable search bar on header"
+msgstr "Suchleiste im Header aktivieren"
+
+#: functions/widget/elitepress_social_icon.php:192
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/widget/elitepress_social_icon.php:222
+msgid "Dribble URL"
+msgstr "Dribble URL"
+
+#: functions/widget/elitepress_social_icon.php:204
+msgid "Youtube URL"
+msgstr "YouTube URL"
+
+#: functions/widget/elitepress_social_icon.php:180
+msgid "Facebook URL"
+msgstr "Facebook URL "
+
+#: elitepress_theme_setup_data.php:131
+#: functions/customizer/customizer_banner.php:24
+msgid "Category title"
+msgstr "Kategorie-Titel"
+
+#: elitepress_theme_setup_data.php:134
+#: functions/customizer/customizer_banner.php:70
+msgid "Archive title"
+msgstr "Archiv-Titel"
+
+#: elitepress_theme_setup_data.php:137
+#: functions/customizer/customizer_banner.php:116
+msgid "Author title"
+msgstr "Autor-Titel"
+
+#: elitepress_theme_setup_data.php:140
+#: functions/customizer/customizer_banner.php:162
+msgid "404 title"
+msgstr "404 Titel"
+
+#: elitepress_theme_setup_data.php:143
+#: functions/customizer/customizer_banner.php:208
+msgid "Tag title"
+msgstr "Schlagwort-Titel"
+
+#: elitepress_theme_setup_data.php:146
+#: functions/customizer/customizer_banner.php:256
+msgid "Search title"
+msgstr "Suche-Titel"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Volle Breite"
+
+#: tag.php:15
+msgid "Tag Archive"
+msgstr "Schlagwort-Archiv"
+
+#: functions/customizer/customizer_banner.php:247 header-menu-section.php:38
+#: searchform.php:2
+msgid "Search"
+msgstr "Suchen"
+
+#: search.php:36
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Leider gibt es keine Ergebnisse für deine Suchkriterien. Bitte versuche es noch einmal mit anderen Suchbegriffen."
+
+#: search.php:34
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: content-single.php:20 content.php:20 fullwidth.php:13 functions.php:129
+#: functions.php:136 functions.php:220 page.php:13
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#. translators: %s: keyword
+#: search.php:14
+msgid "Search results for %s"
+msgstr "Suchergebnisse für %s"
+
+#: header-menu-section.php:10
+msgid "Toggle navigation"
+msgstr "Schalte Navigation"
+
+#: functions.php:87
+msgid "Footer Menu"
+msgstr "Footer-Menü"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#. translators: %s: plugin name.
+#: functions.php:70
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions/widget/custom-sidebar.php:50
+#: functions/widget/custom-sidebar.php:52
+msgid "Footer widget area"
+msgstr "Footer-Widget-Bereich"
+
+#: functions/widget/custom-sidebar.php:7 functions/widget/custom-sidebar.php:9
+msgid "Sidebar widget area"
+msgstr "Seitenleiste-Widget-Bereich"
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: functions/customizer/customizer-copyright.php:49
+msgid "Enable Footer Menu Bar"
+msgstr "Footer-Menüleiste aktivieren"
+
+#: admin/tab-pages/free_vs_pro.php:72
+msgid "Free"
+msgstr "Kostenlos"
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr "Funktionen"
+
+#: admin/tab-pages/free_vs_pro.php:35 admin/tab-pages/useful_plugins.php:75
+msgid "Multiple Color Schemes"
+msgstr "Zahlreiche Farbschemata"
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Translation Ready"
+msgstr "Übersetzbar"
+
+#: functions/template-tag.php:17
+msgid "In"
+msgstr "In"
+
+#: functions/template-tag.php:12
+msgid "By"
+msgstr "Von"
+
+#: comments.php:90
+msgid "Leave a Reply"
+msgstr "Schreibe einen Kommentar"
+
+#: comments.php:87
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+#: comments.php:83
+msgid "Message"
+msgstr "Nachricht"
+
+#: comments.php:84
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+#: comments.php:74
+msgid "Email"
+msgstr "E-Mail"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:40
+msgid "1 comment so far"
+msgstr "1 Kommentar bisher"
+
+#: comments.php:40
+msgid "comments so far"
+msgstr "Kommentare bisher"
+
+#: comments.php:40
+msgid "No comments so far"
+msgstr "Bisher keine Kommentare"
+
+#: comments.php:28
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: comments.php:22
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: comments.php:13
+msgid "Reply"
+msgstr "Antworten"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können musst du das Passwort angeben."
+
+#: category.php:16
+msgid "Category  Archive"
+msgstr "Kategorie-Archiv"
+
+#: functions/customizer/customizer-blog.php:49
+#: functions/customizer/customizer_banner.php:33
+#: functions/customizer/customizer_banner.php:79
+#: functions/customizer/customizer_banner.php:125
+#: functions/customizer/customizer_banner.php:171
+#: functions/customizer/customizer_banner.php:217
+#: functions/customizer/customizer_banner.php:265
+#: functions/widget/elitepress_header_widget.php:85
+msgid "Title"
+msgstr "Titel"
+
+#: archive.php:20
+msgid "Monthly Archive"
+msgstr "Monatsarchiv"
+
+#: archive.php:25
+msgid "Yearly Archive"
+msgstr "Jahresarchiv"
+
+#: 404.php:15
+msgid "Go Back"
+msgstr "Zurück"
+
+#: 404.php:13
+msgid "Oops! Page not found"
+msgstr "Oops! Seite nicht gefunden"
+
+#: 404.php:14
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Es tut uns leid, aber die Seite, die du suchst, existiert nicht."
+
+#: functions/customizer/customizer_banner.php:153
+msgid "404"
+msgstr "404"
+
+#. Author of the theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/elitepress-wordpress-theme-lite/"
+msgstr "https://webriti.com/elitepress-wordpress-theme-lite/"
+
+#. Author URI of the theme
+msgid "https://webriti.com/"
+msgstr "https://webriti.com/"

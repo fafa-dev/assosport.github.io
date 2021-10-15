@@ -1,0 +1,4 @@
+2021-10-12T21:09:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /Users/fafa/Sites/localhost/wp-includes/Requests/Transport/cURL.php à la ligne 462
+
+2021-10-12T21:10:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /Users/fafa/Sites/localhost/wp-includes/wp-db.php à la ligne 2056
+

@@ -1,0 +1,6 @@
+0000.005 (R) [notice] Recherche de l'archive db : nom du fichier : backup_2021-10-13-1845_assosport_0a1fe8ccfc1b-db.gz
+0000.005 (R) [notice] L'archive devrait peser :  1291.7 KB: OK
+0000.007 (R) [notice] Recherche de l'archive plugins : nom du fichier : backup_2021-10-13-1845_assosport_0a1fe8ccfc1b-plugins.zip
+0000.007 (R) [notice] L'archive devrait peser :  80112.6 KB: OK
+0000.009 (R) [warning] Erreur : Des dossiers existants non supprimés d’une restauration précédente existent (veuillez utiliser le bouton « Supprimer les anciens dossiers » pour les supprimer avant de recommencer) : /Users/fafa/Sites/localhost/wp-content/updraft/plugins-old
+0000.010 (R) [notice] Restore failed...
